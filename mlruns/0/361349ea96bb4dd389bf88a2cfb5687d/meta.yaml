@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLPROJECT/mlruns/0/361349ea96bb4dd389bf88a2cfb5687d/artifacts
+end_time: 1726928809331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 361349ea96bb4dd389bf88a2cfb5687d
+run_name: nimble-colt-218
+run_uuid: 361349ea96bb4dd389bf88a2cfb5687d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726928792069
+status: 3
+tags: []
+user_id: root

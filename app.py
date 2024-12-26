@@ -1,9 +1,9 @@
-from src.mlproject.logger import logging
-from src.mlproject.exception import CustomException
-from src.mlproject.components.data_ingestion import DataIngestion 
-from src.mlproject.components.data_ingestion import DataIngestionConfig 
-from src.mlproject.components.data_transformation import DataTransformationConfig,DataTransformation
-from src.mlproject.components.model_trainer import ModelTrainerConfig,ModelTrainer
+from src.logger import logging
+from src.exception import CustomException
+from src.components.data_ingestion import DataIngestion 
+from src.components.data_ingestion import DataIngestionConfig 
+from src.components.data_transformation import DataTransformationConfig,DataTransformation
+from src.components.model_trainer import ModelTrainerConfig,ModelTrainer
 
 import sys
 import os

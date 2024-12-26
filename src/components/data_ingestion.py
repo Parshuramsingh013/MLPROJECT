@@ -1,8 +1,8 @@
 import os 
 import sys
-from src.mlproject.exception import CustomException
-from src.mlproject.logger import logging
-from src.mlproject.utils import read_sql_data
+from src.exception import CustomException
+from src.logger import logging
+from src.utils import read_sql_data
 import pandas as pd
 
 from sklearn.model_selection import train_test_split

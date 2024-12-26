@@ -17,9 +17,9 @@ import mlflow
 from urllib.parse import urlparse
 
 
-from src.mlproject.exception import CustomException
-from src.mlproject.logger import logging
-from src.mlproject.utils import save_object,evaluate_models
+from src.exception import CustomException
+from src.logger import logging
+from src.utils import save_object,evaluate_models
 
 @dataclass
 class ModelTrainerConfig:

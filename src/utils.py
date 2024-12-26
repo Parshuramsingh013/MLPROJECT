@@ -3,8 +3,8 @@ import sys
 
 from sklearn.metrics import r2_score
 from sklearn.model_selection import GridSearchCV
-from src.mlproject.exception import CustomException
-from src.mlproject.logger import logging
+from src.exception import CustomException
+from src.logger import logging
 import pandas as pd
 from dotenv import load_dotenv
 
